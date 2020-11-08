@@ -1,6 +1,6 @@
 ### Profile
 
-I'm a iOS Engineer, Rust Programmer, Site Reliability Engeneer.
+I'm a iOS Engineer, Rust Programmer, Site Reliability Engineer.
 
 - 📫 How to reach me: moriturus@alimensir.com
 - 😄 Pronouns: he/him/his
