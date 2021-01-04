@@ -5,13 +5,6 @@ I'm a iOS Engineer, Rust Programmer and Site Reliability Engineer.
 - 📫 How to reach me: moriturus@alimensir.com
 - 😄 Pronouns: he/him/his
 
-I'm looking for a new job.  
-Please feel free to send an email of inquiry 😉
-
-お仕事募集中です  
-お気軽にメールにてお問い合わせください
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=moriturus&count_private=true&show_icons=true" />
 </a>
