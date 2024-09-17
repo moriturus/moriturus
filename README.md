@@ -3,7 +3,6 @@
 I'm an iOS Engineer, Rust Programmer and Site Reliability Engineer.
 
 - 📫 How to reach me: moriturus@alimensir.com
-- 😄 Pronouns: he/him/his
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=moriturus&count_private=true&show_icons=true" />
