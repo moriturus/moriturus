@@ -1,6 +1,6 @@
 ### Profile
 
-I'm an iOS Engineer, Rust Programmer and Site Reliability Engineer.
+Scrum Master, iOS Engineer, Rust Programmer and Site Reliability Engineer.
 
 - 📫 How to reach me: moriturus@alimensir.com
 
